@@ -1,0 +1,2 @@
+# smskit
+esme server
